@@ -1,0 +1,12 @@
+name: MovieRecommendation
+title: MovieRecommendation
+username:
+account: azahraa2
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 207378
+bundleId: 965313
+url: https://azahraa2.shinyapps.io/BookRecommendation/
+when: 1504437599.14904
+asMultiple: FALSE
+asStatic: FALSE
